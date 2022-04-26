@@ -1,2 +1,2 @@
 # social-network-school-project
-This was a school project for Web Programming class.
+This was a school project for my Web Programming class.
